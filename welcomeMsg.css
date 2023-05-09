@@ -1,0 +1,13 @@
+.redStyle{
+background-color: red;
+}
+.greenStyle{
+    background-color: green;
+}
+h1{
+    color:white;
+    font-size: 12px;
+}
+:host{
+    --sds-c-button-brand-color-background:rgb(250, 23, 182); 
+} 
